@@ -1,0 +1,2 @@
+confidence_level,sample_size,historical_var,expected_shortfall,exceptions,exception_rate,traffic_light_zone
+0.95,20,0.02435,0.031,1,0.05,green

@@ -1,5 +1,10 @@
 # 방법론 노트
 
+## 0. 기준 문서
+
+- `AGENTS.md`: 작업 기준과 품질 기준
+- `SOURCE.md`: 참고 경로와 컨텐츠 재구성 기준
+
 ## 1. 프로젝트 목적
 
 포트폴리오 수익률 표본에서 Historical VaR와 Expected Shortfall을 추정하고 예외 발생률을 확인한다.
